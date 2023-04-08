@@ -1,0 +1,97 @@
+.body {
+    font-family: "Inter";
+    text-align: left;
+    overflow-x: hidden;
+}
+
+.navbar {
+    background-color: black;
+    padding: 3% 10% 7%;
+    margin: auto;
+}
+
+.navbar ul li { 
+	padding: 0 2%; 
+} 
+
+.navbar-brand {
+    font-family: "Prata";
+    color: grey;
+}
+
+/* SVG */
+
+.SVG {
+    display: flex;
+    gap: 7.8%;
+    padding: 5% 10%;
+}
+  
+
+h1 {
+    font-family: "Prata";
+}
+
+h2 {
+    font-family: 'Prata';
+    color: white;
+}
+
+p {
+    color: grey;
+    font-family: "Inter";
+}
+
+
+.row {
+    background-color: black;
+    text-align: left;
+    color: white;
+    padding: 0 10% 3%;
+}
+
+#images {
+    padding: 10% 2% 0;
+    display: flex;
+    gap: 3%;
+}
+
+.disc-images {
+    padding-bottom: 15%;
+}
+
+#About {
+    background-color: #30343c;
+}
+
+.about-discription{
+    padding: 0 10% 3%;
+    padding-top: 5%;
+}
+
+.left-text {
+    width: 50%;
+    float: left;
+}
+
+#contact {
+    background-color: black;
+}
+
+.contact-me {
+    width: 60%;
+    padding: 5% 10% 5%;
+}
+
+#footer {
+    background-color: #30343c;
+}
+
+.social {
+    padding: 1% 10% 1%;
+}
+
+.social-icons {
+    float: right;
+    padding-right: 2%;
+}
